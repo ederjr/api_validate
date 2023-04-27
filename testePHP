@@ -39,3 +39,4 @@
 		echo "Result value: " . $value ."\n\n";
 	}	
 ?>
+<html>Hello Word</html>
